@@ -11,6 +11,8 @@ pytz = "==2018.5"
 six = "==1.11.0"
 matplotlib = "*"
 sklearn = "*"
+seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
